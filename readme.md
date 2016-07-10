@@ -1,4 +1,4 @@
-Knight Sequences
+<h1>Knight Sequences</h1>
 
 Pictured below is a keypad:
 
