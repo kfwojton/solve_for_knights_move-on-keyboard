@@ -34,7 +34,7 @@ KeyBoard
 Your program should first write the number of valid 10-key sequences on a single line to standard out.  
 
 
-<h1> To Use /h1>
+<h1> To Use </h1>
 
 Simply call the function start with two variables. The first which letter you want to start at and how many letters you want the password to be. Such that: <br><br>
 
@@ -52,5 +52,3 @@ Simply call the function start with two variables. The first which letter you wa
  <h1> Planning and Discussion </h1>
 
  The methods I used worked to trim run time. I used Python's generator functions to make the iterations run as fast as python would allow. Given production level implementation what I would do would be to populate a running graph that tracked the connections between the letters. I would make every query fill out a multi-child graph representation of the data. Such that once all of the connections where made the algorithm would simply traverse the graph rather than build a new iteration of the function every time.
-
- 
