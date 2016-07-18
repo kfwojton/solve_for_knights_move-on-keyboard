@@ -2,6 +2,7 @@
 
 Pictured below is a keypad:
 
+
 We want to find all 10-key sequences that can be keyed into the keypad in the following manner:
 <br> <br>
 <div style = "margin-left:60px;">
